@@ -83,6 +83,8 @@ for (let i = 1; i <= 5; i++) {
     // Loop through each column in the current row
     for (let j = 1; j <= i; j++) {
         row += "* ";
+
     }
     console.log(row);
+
 }
